@@ -1,0 +1,5 @@
+{
+  "name": "IntellectNode Agent",
+  "description": "An intelligent research agent that gathers resources via Google Search, enhances the content for clarity, and provides structural analytics and insights.",
+  "requestFramePermissions": []
+}
